@@ -284,7 +284,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 16459,
+      "PayloadLength": 17017,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -377,24 +377,24 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.ARKitFaceCapture.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.011.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ntp.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ltc.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VideoStreaming.Server.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Rendering.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VirtualCamera.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.CompanionApp.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Networking.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/Conor/Shadow wizard money gang/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.ARKitFaceCapture.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.011.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ntp.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ltc.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VideoStreaming.Server.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Rendering.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VirtualCamera.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.CompanionApp.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Networking.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -1324,7 +1324,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Assembly-CSharp.dll"
@@ -1336,7 +1336,7 @@
       "DisplayName": "Copying Unity.LiveCapture.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.dll"
@@ -1348,7 +1348,7 @@
       "DisplayName": "Copying Unity.LiveCapture.ARKitFaceCapture.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.ARKitFaceCapture.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.ARKitFaceCapture.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.ARKitFaceCapture.dll"
@@ -1360,7 +1360,7 @@
       "DisplayName": "Copying Unity.InternalAPIEngineBridge.011.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.011.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.011.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.InternalAPIEngineBridge.011.dll"
@@ -1372,7 +1372,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1384,7 +1384,7 @@
       "DisplayName": "Copying Unity.LiveCapture.Ntp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ntp.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ntp.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.Ntp.dll"
@@ -1396,7 +1396,7 @@
       "DisplayName": "Copying Unity.LiveCapture.Ltc.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ltc.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Ltc.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.Ltc.dll"
@@ -1408,7 +1408,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/UnityEngine.UI.dll"
@@ -1420,7 +1420,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1432,7 +1432,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.Timeline.dll"
@@ -1444,7 +1444,7 @@
       "DisplayName": "Copying Unity.LiveCapture.VideoStreaming.Server.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VideoStreaming.Server.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VideoStreaming.Server.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.VideoStreaming.Server.dll"
@@ -1456,7 +1456,7 @@
       "DisplayName": "Copying Unity.LiveCapture.Rendering.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Rendering.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Rendering.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.Rendering.dll"
@@ -1468,7 +1468,7 @@
       "DisplayName": "Copying Unity.LiveCapture.VirtualCamera.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VirtualCamera.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.VirtualCamera.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.VirtualCamera.dll"
@@ -1480,7 +1480,7 @@
       "DisplayName": "Copying Unity.LiveCapture.CompanionApp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.CompanionApp.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.CompanionApp.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.CompanionApp.dll"
@@ -1492,7 +1492,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.TextMeshPro.dll"
@@ -1504,7 +1504,7 @@
       "DisplayName": "Copying Unity.LiveCapture.Networking.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Networking.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.LiveCapture.Networking.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.LiveCapture.Networking.dll"
@@ -1516,7 +1516,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1528,7 +1528,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/Conor/Shadow wizard money gang/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "build n run/Shadow wizard money gang_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1791,7 +1791,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 16631,
+      "PayloadOffset": 17189,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "Fluff\nShadow wizard money gang",
       "Inputs": [],
@@ -2471,6 +2471,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player31838b72.dag.json",
-  "PayloadsFile": "C:/Users/Conor/Shadow wizard money gang/Library/Bee/Player31838b72.dag.payloads",
+  "PayloadsFile": "C:/Users/Conor/Desktop/Unity-FaceTracking-app/Shadow wizard money gang/Library/Bee/Player31838b72.dag.payloads",
   "RelativePathToRoot": "../.."
 }
